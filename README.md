@@ -1,5 +1,7 @@
 # React In-class Exam, November 2024
 
+## James Hanlon, 20097662
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
